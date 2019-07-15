@@ -987,3 +987,4 @@ You can also avoid this by creating projects with the **right react-scripts vers
 ```
 create-react-app my-app --scripts-version 1.1.5
 ```
+
